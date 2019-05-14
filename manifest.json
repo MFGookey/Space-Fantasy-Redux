@@ -1,0 +1,18 @@
+{
+  "name": "Space Fantasy Redux",
+  "manifest_version": 2,
+  "version": "4.0",
+  "theme": {
+    "images": {
+      "theme_frame": "images/2.header.jpg"
+    },
+    "colors": {
+      "toolbar": "rgba(133, 133, 133, 0.61)",
+      "toolbar_field": "rgba(255, 255, 255, 0.63)",
+      "toolbar_field_text": "rgba(0, 0, 0, 1)",
+      "frame": "rgba(1, 57, 110, 1)",
+      "tab_background_text": "rgba(255, 255, 255, 1)",
+      "bookmark_text": "rgba(255, 255, 255, 1)"
+    }
+  }
+}
